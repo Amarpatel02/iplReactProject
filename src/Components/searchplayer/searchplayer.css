@@ -1,0 +1,27 @@
+
+
+
+#main6{
+    width: 50%;
+    height: 50vh;
+margin-top: 65px;
+ margin-left: 300px;
+    display: flex;
+    justify-content: center;
+   
+}
+#child1{
+    border-radius: 15px;
+}
+
+#child2{
+  
+   margin-top: 80px;
+   margin-left: 50px;
+  
+  
+
+}
+#h15{
+    margin: 50px;
+}

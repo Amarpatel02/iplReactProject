@@ -1,0 +1,48 @@
+* {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#form {
+    background-color: #cbc3c39c;
+    width: 25vw;
+    height: 77vh;
+    margin-top: 70px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 36%;
+   
+}
+
+.form-group {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-bottom: 15px;
+    width: 250px;
+}
+
+.form-control {
+    padding: 20px;
+    border: 1px solid #f59f9f;
+    border-radius: 5px;
+    width: 120%;
+    box-sizing: border-box;
+    margin-top: 5px;
+}
+
+.error-message {
+    margin-top: 5px;
+    font-size: 15px;
+    color: red;
+}
+
+#po{
+    padding: 10px 20px;
+    margin-right: 10px;
+    border-radius: 10px;
+    
+}

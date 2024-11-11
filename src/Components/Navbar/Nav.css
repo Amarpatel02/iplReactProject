@@ -1,0 +1,35 @@
+#navbarr {
+  height: 12vh;
+  background-color: #19398a;
+  box-shadow: 0 4px 15px gray;
+}
+#input {
+  position: relative;
+  left: 210px;
+  padding: 7px;
+}
+.img {
+  margin-left: 130px;
+}
+form {
+  margin-right: 250px;
+}
+
+#btn {
+  position: relative;
+  border-radius: 10px;
+  left: 212px;
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+  height: 38px;
+  margin-top: 3px;
+}
+
+.form-inline{
+    display: flex;
+    flex-direction: row;  
+    column-gap: 10px;  
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}
